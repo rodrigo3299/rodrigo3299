@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Rodrigo Farias, I started my programming journey in 2021, when I started studying at Escola FIAP. Since then, I have been dedicating myself to learning and developing projects in the technology area. I am currently in the 3rd year of high school, finishing this stage. My current focus is the development of Guide Fitness, a fitness application that uses React and Tailwind CSS to create modern and intuitive interfaces.</p>
+<p align="left">I'm Rodrigo Farias, I started my programming journey in 2022, when I started studying at Escola FIAP. Since then, I have been dedicating myself to learning and developing projects in the technology area. I am currently in the 3rd year of high school, finishing this stage. My current focus is the development of Guide Fitness, a fitness application that uses React and Tailwind CSS to create modern and intuitive interfaces.</p>
 
 ###
 
