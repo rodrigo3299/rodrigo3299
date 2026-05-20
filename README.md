@@ -42,10 +42,9 @@ Currently, I’m working on personal and academic projects such as Guide Fitness
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rodrigo3299&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo3299&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo3299&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo3299&layout=compact&theme=tokyonight"/>
 ## 📫 Contact
 
 - LinkedIn: www.linkedin.com/in/rodrigo-farias-lima98
